@@ -1,0 +1,1 @@
+# These are the exercsies for Programming Elixir by Dave Thomas
