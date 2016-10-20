@@ -19,6 +19,9 @@ single_number = fn (num) -> fizzbuzz.({rem(num, 3), rem(num, 5), num}) end
 # IO.puts fizzbuzz.({"hey", 0, 0})
 # IO.puts fizzbuzz.({"hey", "hey", "hey"})
 
+
+# this is a har coded fizzbuzz problem 
+
 IO.puts single_number.(10)
 IO.puts single_number.(11)
 IO.puts single_number.(12)
