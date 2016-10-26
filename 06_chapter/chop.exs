@@ -1,5 +1,0 @@
-defmodule Chop do 
-
-  
-
-end
